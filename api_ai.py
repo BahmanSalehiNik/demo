@@ -4,7 +4,7 @@ class ApiAi(object):
 
     def introduce(self):
         print(self.name)
-        return self.name
+        return self.name + 'edited'
 
 
 if __name__ == '__main__':
