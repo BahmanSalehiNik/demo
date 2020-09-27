@@ -11,4 +11,6 @@ if __name__ == '__main__':
     stock_ai = ApiAi()
     stock_ai.introduce()
     print("Adding machinegun!!!")
-    
+
+
+
